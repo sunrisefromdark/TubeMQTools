@@ -1,0 +1,7 @@
+com\myTopicTool\TopicTool.class
+com\myTopicTool\UpdateTopicParameters.class
+com\myTopicTool\TopicCreationManager.class
+com\myTopicTool\TopicQueryManager.class
+com\myTopicTool\TopicUpdateManager.class
+com\myTopicTool\TopicManagerBase.class
+com\myTopicTool\TopicDeletionManager.class
