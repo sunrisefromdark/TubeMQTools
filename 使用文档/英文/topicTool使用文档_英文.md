@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 # 		topicTool Usage Documentation
 
 This command-line tool allows you to perform various operations on topics using a Java JAR file.
